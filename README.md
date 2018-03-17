@@ -103,3 +103,10 @@ Copy Bundle Resources）。
 # API文档（TODO）
 
 	参考Demo。
+
+	```
+
+# FAQ
+	1、android下不生效的问题，请检查是否是debug模式，不同模式的keystore导致需要不同的安全图片
+	
+	
